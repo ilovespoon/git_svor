@@ -1,9 +1,9 @@
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	* cd
+	* cd ~
+	* ls
+	* pwd
+	* mkdir
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
